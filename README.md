@@ -1,6 +1,6 @@
 # personal-server
 
-A self-hosted personal server on Oracle Cloud ARM64. Everything runs in Docker behind a single authentication layer. One login with TOTP gets you into everything. Built from scratch and maintained manually.
+Personal server on Oracle Cloud ARM64 for self hosting services. Everything runs in Docker behind a single authentication layer. One login with TOTP gets you into everything. Built from scratch and maintained manually.
 
 ---
 
